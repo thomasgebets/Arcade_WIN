@@ -1,0 +1,1 @@
+controller.move_sprite(None)
